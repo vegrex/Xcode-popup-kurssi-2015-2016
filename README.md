@@ -40,6 +40,15 @@ Paja-tyyppistä ohjausta PE 4/12, PE 11/12, MA 11/1 14:00-16:00<br/>
 Projektityön ohjaustilaisuuksia, voi kokeilla laitteita, kysellä projektista, tms.<br/><br/>
 Demotilaisuus MA 18/1 14:00-16:00
 
+Projektin muoto
+---------------
+Jokaisella projektilla on oma GitHub repositorio jota muut kurssiin osallistujat voivat 
+seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin sanomaa 
+"commit early and often", eli pidetään repo ajan tasalla.<br /><br /> 
+
+Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit.<br />
+
+
 Materiaalia (lisätään kurssin aikana)
 -------------------------------------
 Aluksi tutustutaan Xcoden eri osiin käymällä läpi <em> 
