@@ -29,29 +29,36 @@ jatkokurssi (Java-ohjelmointi)</p>
 
 Suorittaminen
 -------------
-Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
+<p>Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
 pakollinen demo-tilaisuus. Käytetyistä tunneista pidetään kirjaa ja noin 27 työtuntia 
-vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva.
+vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva.</p>
 
 Aikataulu
 ---------
-Aloitusluento TI 1/12 12:00-14:00<br/><br/>
+<p>Aloitusluento TI 1/12 12:00-14:00<br/><br/>
 Paja-tyyppistä ohjausta PE 4/12, PE 11/12, MA 11/1 14:00-16:00<br/>
 Projektityön ohjaustilaisuuksia, voi kokeilla laitteita, kysellä projektista, tms.<br/><br/>
 Demotilaisuus MA 18/1 14:00-16:00
+</p>
 
 Projektin muoto
 ---------------
-Jokaisella projektilla on oma GitHub repositorio jota muut kurssiin osallistujat voivat 
+<p>Jokaisella projektilla on oma GitHub repositorio jota muut kurssiin osallistujat voivat 
 seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin sanomaa 
-"commit early and often", eli pidetään repo ajan tasalla.<br /><br /> 
-
-Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit.<br />
-
+"commit early and often", eli pidetään repo ajan tasalla.</p>
+<br />
+<p>Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit muotoon:<br />
+/hours/opiskelijan-nimi.md
+</p>
 
 Materiaalia (lisätään kurssin aikana)
 -------------------------------------
-Aluksi tutustutaan Xcoden eri osiin käymällä läpi <em> 
+<h2>Materiaalia</h2>
+<p>Xcode versio jota käytetään kursilla on 7.1.1. Uudet versiot sallii kääntämisen
+laitteille ilman erityisiä kehittäjälisenssejä.</p>
+
+<h3>Xcode ja Interface Builder</h3>
+<p>Tutustutaan Xcoden eri osiin käymällä läpi <em> 
 <a href="https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215
 ">Xcode overview</a></em>. Huomaa, että Xcodessa (tietyt ikonit) saattaa olla muuttunut hieman, 
 osien sijainti Xcodessa on kuitenkin sama.
@@ -60,4 +67,7 @@ Kokeilkaa!<br />
 UI elementin kytkentä koodiin luomalla ns. <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/CreatingAction.html#//apple_ref/doc/uid/TP40014227-CH16-SW1">Action Connection</a>.
 Koodista kytkentä UI elementtiin ns. <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/CreatingOutlet.html#//apple_ref/doc/uid/TP40014227-CH15-SW1">Outlet Connection</a>.
 <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/Connections.html#//apple_ref/doc/uid/TP40014227-CH20-SW1">Connection Panel</a>in avulla voidaan muuttaa luotuja yhteyksiä.
-
+</p>
+<br />
+<h3>Simulaattori</h3>
+<p>TBA</p>
