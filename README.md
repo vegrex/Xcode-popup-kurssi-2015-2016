@@ -44,9 +44,11 @@ seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin s
 /hours/opiskelijan-nimi.md
 </p>
 
-<h2>Materiaalia (lisätään kurssin aikana)<h2>
-<p>Xcode versio jota käytetään kursilla on 7.1.1. Uudet versiot sallii kääntämisen
-laitteille ilman erityisiä kehittäjälisenssejä.</p>
+<h2>Materiaalia (lisätään kurssin aikana)</h2>
+<p>Xcode versio jota käytetään (laitoksen koneet) kursilla on 7.1.1.</p>
+
+<h3>Aloitetaan</h3>
+<p>Xcode on ilmainen ja voidaan ladata <a href="https://developer.apple.com/xcode/download">täältä</a>.</p>
 
 <h3>Xcode ja Interface Builder</h3>
 <p>Tutustutaan Xcoden eri osiin käymällä läpi <em> 
@@ -60,5 +62,6 @@ Koodista kytkentä UI elementtiin ns. <a href="https://developer.apple.com/libra
 <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/Connections.html#//apple_ref/doc/uid/TP40014227-CH20-SW1">Connection Panel</a>in avulla voidaan muuttaa luotuja yhteyksiä.
 </p>
 <br />
+
 <h3>Simulaattori</h3>
 <p>TBA</p>
