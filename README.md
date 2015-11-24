@@ -53,8 +53,8 @@ seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin s
 <h3>Xcode ja Interface Builder</h3>
 <p>Tutustutaan Xcoden eri osiin käymällä läpi <em> 
 <a href="https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215
-">Xcode overview</a></em>. Huomaa, että Xcodessa (tietyt ikonit) saattaa olla muuttunut hieman, 
-osien sijainti Xcodessa on kuitenkin sama.
+">Xcode overview</a></em>. Huomaa, että tietyttyjen ikonien ulkoasu on saattanut muuttua hieman, 
+ ikonien ja osien sijainti Xcodessa on kuitenkin sama.
 <br /><br />
 Kokeilkaa!<br />
 UI elementin kytkentä koodiin luomalla ns. <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/CreatingAction.html#//apple_ref/doc/uid/TP40014227-CH16-SW1">Action Connection</a>.
