@@ -1,23 +1,19 @@
-# Xcode-popup-kurssi-2015-2016
+<h1>Xcode-popup-kurssi-2015-2016</h1>
 <img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
-Ajankohtaista
--------------
-Vuodenvaihteessa 1.12.2015-18.1.2016 järjestetään Apple Xcode -kurssi. Ilmoittautuminen
-on jo alkanut ja päättyy 28.11.
+<h2>Ajankohtaista</h2>
+<p>Vuodenvaihteessa 1.12.2015-18.1.2016 järjestetään Apple Xcode -kurssi. Ilmoittautuminen
+on jo alkanut ja päättyy 28.11.</p>
 
-Ilmoittautuminen
-----------------
-Ilmon kautta. Sulkeutuu 28.11. Rajoitettu määrä paikkoja koska laitteistoa on 
+<h2>Ilmoittautuminen</h2>
+<p>Ilmon kautta. Sulkeutuu 28.11. Rajoitettu määrä paikkoja koska laitteistoa on 
 rajoitetusti. Exactumin 2 krs. sijaitsee 5 kpl iMac 27", jolla voi tehdä projektia. 
-Kursille hyväksytyt osallistujat ilmoitetaan tälle sivulle 30/11.
+Kursille hyväksytyt osallistujat ilmoitetaan tälle sivulle 30/11.</p>
 
-Osallistujat
-------------
-TBA
+<h2>Osallistujat</h2>
+<p>TBA</p>
 
-Kuvaus
-------
+<h2>Kuvaus</h2>
 <p>Kurssilla tutustutaan Applen Xcoden osiin ja käyttöön. Xcode on Applen IDE jolla luodaan 
 OS X, iOS, tvOS ja watchOS ohjelmia. Kurssilla harjoitellaan Xcoden käyttöä 
 yksinkertaisten iOS applikaatioiden luomiseen. Keskeisenä osana kurssia toteutetaan 
@@ -27,22 +23,19 @@ oma-aloitteisesti tietojaan ja taitojaan verkkomateriaalilla. Kurssin jälkeen o
 osaa laatia Xcodella yksinkertaisia iOS applikaatioita. Esitiedot: Ohjelmoinnin 
 jatkokurssi (Java-ohjelmointi)</p>
 
-Suorittaminen
--------------
+<h2>Suorittaminen</h2>
 <p>Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
 pakollinen demo-tilaisuus. Käytetyistä tunneista pidetään kirjaa ja noin 27 työtuntia 
 vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva.</p>
 
-Aikataulu
----------
+<h2>Aikataulu</h2>
 <p>Aloitusluento TI 1/12 12:00-14:00<br/><br/>
 Paja-tyyppistä ohjausta PE 4/12, PE 11/12, MA 11/1 14:00-16:00<br/>
 Projektityön ohjaustilaisuuksia, voi kokeilla laitteita, kysellä projektista, tms.<br/><br/>
 Demotilaisuus MA 18/1 14:00-16:00
 </p>
 
-Projektin muoto
----------------
+<h2>Projektin muoto</h2>
 <p>Jokaisella projektilla on oma GitHub repositorio jota muut kurssiin osallistujat voivat 
 seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin sanomaa 
 "commit early and often", eli pidetään repo ajan tasalla.</p>
@@ -51,9 +44,7 @@ seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin s
 /hours/opiskelijan-nimi.md
 </p>
 
-Materiaalia (lisätään kurssin aikana)
--------------------------------------
-<h2>Materiaalia</h2>
+<h2>Materiaalia (lisätään kurssin aikana)<h2>
 <p>Xcode versio jota käytetään kursilla on 7.1.1. Uudet versiot sallii kääntämisen
 laitteille ilman erityisiä kehittäjälisenssejä.</p>
 
