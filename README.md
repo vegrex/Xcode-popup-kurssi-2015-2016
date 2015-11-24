@@ -1,5 +1,5 @@
 # Xcode-popup-kurssi-2015-2016
-<img src="https://github.com/vegrex/Xcode-popup-kurssi-2015-2016/images/Xcode6.png" />
+<img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
 Ajankohtaista
 -------------
@@ -18,14 +18,14 @@ TBA
 
 Kuvaus
 ------
-Kurssilla tutustutaan Applen Xcoden osiin ja käyttöön. Xcode on Applen IDE jolla luodaan 
+<p>Kurssilla tutustutaan Applen Xcoden osiin ja käyttöön. Xcode on Applen IDE jolla luodaan 
 OS X, iOS, tvOS ja watchOS ohjelmia. Kurssilla harjoitellaan Xcoden käyttöä 
 yksinkertaisten iOS applikaatioiden luomiseen. Keskeisenä osana kurssia toteutetaan 
 applikaatio-projekti. Opiskelijat esittelevät tekemänsä applikaatiot toisilleen 
 demotilaisuudessa. Projektin onnistuminen vaatii, että opiskelijat täydentävät 
 oma-aloitteisesti tietojaan ja taitojaan verkkomateriaalilla. Kurssin jälkeen opiskelija 
 osaa laatia Xcodella yksinkertaisia iOS applikaatioita. Esitiedot: Ohjelmoinnin 
-jatkokurssi (Java-ohjelmointi)
+jatkokurssi (Java-ohjelmointi)</p>
 
 Materiaalia (lisätään kurssin aikana)
 -------------------------------------
