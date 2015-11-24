@@ -27,6 +27,19 @@ oma-aloitteisesti tietojaan ja taitojaan verkkomateriaalilla. Kurssin jälkeen o
 osaa laatia Xcodella yksinkertaisia iOS applikaatioita. Esitiedot: Ohjelmoinnin 
 jatkokurssi (Java-ohjelmointi)</p>
 
+Suorittaminen
+-------------
+Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
+pakollinen demo-tilaisuus. Käytetyistä tunneista pidetään kirjaa ja noin 27 työtuntia 
+vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva.
+
+Aikataulu
+---------
+Aloitusluento TI 1/12 12:00-14:00<br/><br/>
+Paja-tyyppistä ohjausta PE 4/12, PE 11/12, MA 11/1 14:00-16:00<br/>
+Projektityön ohjaustilaisuuksia, voi kokeilla laitteita, kysellä projektista, tms.<br/><br/>
+Demotilaisuus MA 18/1 14:00-16:00
+
 Materiaalia (lisätään kurssin aikana)
 -------------------------------------
 Aluksi tutustutaan Xcoden eri osiin käymällä läpi <em> 
