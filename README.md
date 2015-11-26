@@ -3,7 +3,7 @@
 
 <h2>Ajankohtaista</h2>
 <p>Vuodenvaihteessa 1.12.2015-18.1.2016 järjestetään Apple Xcode -kurssi. Ilmoittautuminen
-on jo alkanut ja päättyy 28.11.</p>
+on jo alkanut ja päättyy 29.11.</p>
 
 <h2>Ilmoittautuminen</h2>
 <p>Ilmon kautta. Sulkeutuu 29.11. Rajoitettu määrä paikkoja koska laitteistoa on 
