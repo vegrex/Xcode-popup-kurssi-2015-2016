@@ -1,9 +1,6 @@
 <h1>Xcode-popup-kurssi-2015-2016</h1>
 <img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
-<h2>Yhteyshenkilö</h2>
-<p>daniel.lillqvist(a)helsinki.fi</p>
-
 <h2>Ajankohtaista</h2>
 <p>Vuodenvaihteessa 1.12.2015-18.1.2016 järjestetään Apple Xcode -kurssi. Ilmoittautuminen
 on jo alkanut ja päättyy 28.11.</p>
@@ -68,6 +65,9 @@ Koodista kytkentä UI elementtiin ns. <a href="https://developer.apple.com/libra
 
 <h3>Simulaattori</h3>
 <p>TBA</p>
+
+<h2>Yhteyshenkilö</h2>
+<p>Jos kysyttävää, ota yhteyttä: daniel.lillqvist(a)helsinki.fi</p>
 
 <h2>Jatkoa Xcoden parissa</h2>
 <p>Keväällä pääaineopiskelijoilla on mahdollisuus osallistua ohjelmistotuotantoprojektiin Xcoden parissa. Kerrotaan lisää tästä projektista aloitusluennolla. Voi kuitenkin olla hyvä jo nyt huomioida OHTU-projektin aikataulun:<br />
