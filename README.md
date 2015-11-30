@@ -12,7 +12,7 @@ Kursille hyväksytyt osallistujat ilmoitetaan tälle sivulle 30/11.</p>
 
 <h2>Osallistujat</h2>
 <p>
-Kurssille on tehty rajauksen. Tässä osallistujat:
+Kurssille on tehty rajauksen. Tässä osallistujat:<br />
 11647672<br />
 11732558<br />
 11935261<br />
