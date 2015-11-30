@@ -11,7 +11,25 @@ rajoitetusti. Exactumin 2 krs. sijaitsee 5 kpl iMac 27", jolla voi tehdä projek
 Kursille hyväksytyt osallistujat ilmoitetaan tälle sivulle 30/11.</p>
 
 <h2>Osallistujat</h2>
-<p>TBA</p>
+<p>
+Kurssille on tehty rajauksen. Tässä osallistujat:
+11647672<br />
+11732558<br />
+11935261<br />
+12218686<br />
+13483407<br />
+14012055<br />
+14109887<br />
+14248188<br />
+14257687<br />
+14261741<br />
+14356630<br />
+14416907<br />
+14416910<br />
+14416994<br />
+14417977<br />
+14418484<br />
+</p>
 
 <h2>Kuvaus</h2>
 <p>Kurssilla tutustutaan Applen Xcoden osiin ja käyttöön. Xcode on Applen IDE jolla luodaan 
