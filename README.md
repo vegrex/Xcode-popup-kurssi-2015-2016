@@ -1,14 +1,13 @@
 <h1>Xcode-popup-kurssi-2015-2016</h1>
+<p>Vuodenvaihteen 1.12.2015-18.1.2016 Pop-Up Course: Xcode (582756)</p>
 <img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
 <h2>Ajankohtaista</h2>
-<p>Vuodenvaihteessa 1.12.2015-18.1.2016 järjestetään Apple Xcode -kurssi. Ilmoittautuminen
-on jo alkanut ja päättyy 29.11.</p>
-
-<h2>Ilmoittautuminen</h2>
-<p>Ilmon kautta. Sulkeutuu 29.11. Rajoitettu määrä paikkoja koska laitteistoa on 
-rajoitetusti. Exactumin 2 krs. sijaitsee 5 kpl iMac 27", jolla voi tehdä projektia. 
-Kursille hyväksytyt osallistujat ilmoitetaan tälle sivulle 30/11.</p>
+<ul>
+<li>4.12 <Projektisuunnitelman deadline. Perjantaina pajatyyppistä ohjausta (paikka vielä haussa, ilmoitetaan tänne)</li>
+<li>1.12 Aloitusluento</li>
+<li>30.11 Osallistujat valittu</li>
+</ul>
 
 <h2>Osallistujat</h2>
 <p>
@@ -33,7 +32,7 @@ Kurssille on tehty rajauksen. Tässä osallistujat:<br />
 
 <h2>Kuvaus</h2>
 <p>Kurssilla tutustutaan Applen Xcoden osiin ja käyttöön. Xcode on Applen IDE jolla luodaan 
-OS X, iOS, tvOS ja watchOS ohjelmia. Kurssilla harjoitellaan Xcoden käyttöä 
+iOS, OS X, tvOS ja watchOS ohjelmia. Kurssilla harjoitellaan Xcoden käyttöä 
 yksinkertaisten iOS applikaatioiden luomiseen. Keskeisenä osana kurssia toteutetaan 
 applikaatio-projekti. Opiskelijat esittelevät tekemänsä applikaatiot toisilleen 
 demotilaisuudessa. Projektin onnistuminen vaatii, että opiskelijat täydentävät 
@@ -44,7 +43,8 @@ jatkokurssi (Java-ohjelmointi)</p>
 <h2>Suorittaminen</h2>
 <p>Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
 pakollinen demo-tilaisuus. Käytetyistä tunneista pidetään kirjaa ja noin 27 työtuntia 
-vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva.</p>
+vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva. Tarkempaa tietoa kurssin ja 
+projektin suorittamisesta löytyy Projektiohjeesta.</p>
 
 <h2>Aikataulu</h2>
 <p>Aloitusluento TI 1/12 12:00-14:00<br/><br/>
@@ -59,32 +59,17 @@ seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin s
 "commit early and often", eli pidetään repo ajan tasalla.</p>
 <br />
 <p>Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit muotoon:<br />
-/hours/opiskelijan-nimi.md
-</p>
+/hours/opiskelijan-nimi.md</p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015Projektiohje.pdf">Projektiohje</a></p>
+
+
 
 <h2>Materiaalia (lisätään kurssin aikana)</h2>
 <p>Xcode versio jota käytetään (laitoksen koneet) kursilla on 7.1.1.</p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015First.pdf">Ensimmäinen iOS-applikaatio</a></p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015Materiaali.pdf">Materiaali-PDF</a></p>
 
-<h3>Aloitetaan</h3>
-<p>Xcode on ilmainen ja voidaan ladata <a href="https://developer.apple.com/xcode/download">täältä</a>.</p>
-
-<h3>Xcode ja Interface Builder</h3>
-<p>Tutustutaan Xcoden eri osiin käymällä läpi <em> 
-<a href="https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215
-">Xcode overview</a></em>. Huomaa, että tietyttyjen ikonien ulkoasu on saattanut muuttua hieman, 
- ikonien ja osien sijainti Xcodessa on kuitenkin sama.
-<br /><br />
-Kokeilkaa!<br />
-UI elementin kytkentä koodiin luomalla ns. <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/CreatingAction.html#//apple_ref/doc/uid/TP40014227-CH16-SW1">Action Connection</a>.
-Koodista kytkentä UI elementtiin ns. <a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/CreatingOutlet.html#//apple_ref/doc/uid/TP40014227-CH15-SW1">Outlet Connection</a>.
-<a href="https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/chapters/Connections.html#//apple_ref/doc/uid/TP40014227-CH20-SW1">Connection Panel</a>in avulla voidaan muuttaa luotuja yhteyksiä.
-</p>
-<br />
-
-<h3>Simulaattori</h3>
-<p>TBA</p>
-
-<h2>Yhteyshenkilö</h2>
+<h2>Yhteyshenkilö (ohjaaja)</h2>
 <p>Jos kysyttävää, ota yhteyttä: daniel.lillqvist(a)helsinki.fi</p>
 
 <h2>Jatkoa Xcoden parissa</h2>
