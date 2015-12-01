@@ -60,14 +60,14 @@ seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin s
 <br />
 <p>Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit muotoon:<br />
 /hours/opiskelijan-nimi.md</p>
-<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015Projektiohje.pdf">Projektiohje</a></p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohje</a></p>
 
 
 
 <h2>Materiaalia (lisätään kurssin aikana)</h2>
 <p>Xcode versio jota käytetään (laitoksen koneet) kursilla on 7.1.1.</p>
-<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015First.pdf">Ensimmäinen iOS-applikaatio</a></p>
-<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/XPC2015Materiaali.pdf">Materiaali-PDF</a></p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015First.pdf">Ensimmäinen iOS-applikaatio</a></p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaali-PDF</a></p>
 
 <h2>Yhteyshenkilö (ohjaaja)</h2>
 <p>Jos kysyttävää, ota yhteyttä: daniel.lillqvist(a)helsinki.fi</p>
