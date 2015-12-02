@@ -1,5 +1,7 @@
 <h1>Xcode-popup-kurssi-2015-2016</h1>
 <p>Vuodenvaihteen 1.12.2015-18.1.2016 Pop-Up Course: Xcode (582756)</p>
+<p>Päivtetty 2.12</p>
+
 <img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
 <h2>Ajankohtaista</h2>
