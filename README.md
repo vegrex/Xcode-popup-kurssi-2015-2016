@@ -4,7 +4,7 @@
 
 <h2>Ajankohtaista</h2>
 <ul>
-<li>4.12 <Projektisuunnitelman deadline. Perjantaina pajatyyppistä ohjausta (paikka vielä haussa, ilmoitetaan tänne)</li>
+<li>4.12 Projektisuunnitelman deadline (sähköpostitse). Pajatyyppistä ohjausta B119:ssä 14-16.</li>
 <li>1.12 Aloitusluento</li>
 <li>30.11 Osallistujat valittu</li>
 </ul>
@@ -44,30 +44,30 @@ jatkokurssi (Java-ohjelmointi)</p>
 <p>Pakollinen aloitustilaisuus, applikaatio-projekti joka tehdään yksin tai parityönä ja 
 pakollinen demo-tilaisuus. Käytetyistä tunneista pidetään kirjaa ja noin 27 työtuntia 
 vastaa 1 op. Kurssimateriaali on verkkoon pohjautuva. Tarkempaa tietoa kurssin ja 
-projektin suorittamisesta löytyy Projektiohjeesta.</p>
+projektin suorittamisesta löytyy <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohjeesta</a>.</p>
 
 <h2>Aikataulu</h2>
-<p>Aloitusluento TI 1/12 12:00-14:00<br/><br/>
-Paja-tyyppistä ohjausta PE 4/12, PE 11/12, MA 11/1 14:00-16:00<br/>
-Projektityön ohjaustilaisuuksia, voi kokeilla laitteita, kysellä projektista, tms.<br/><br/>
-Demotilaisuus MA 18/1 14:00-16:00
+<p>1.12 12-14 Aloitusluento <br/><br/>
+Pajatyyppistä ohjausta:
+<ul>
+<li>4.12 14-16 B119</li>
+<li>11.12 14-16 C220</li>
+<li>11.1 14-16 (TBA)</li>
+</ul>
+18.1 Ma 14-16 Demotilaisuus (voi tulla muutosta tähän vielä)
 </p>
 
 <h2>Projektin muoto</h2>
-<p>Jokaisella projektilla on oma GitHub repositorio jota muut kurssiin osallistujat voivat 
-seurata projektin edetessä. Tämän vuoksi kannattaa seurata hyvän prosessin sanomaa 
+<p>Jokaisella projektilla on oma GitHub repositorio, kannattaa seurata hyvän prosessin sanomaa 
 "commit early and often", eli pidetään repo ajan tasalla.</p>
 <br />
 <p>Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit muotoon:<br />
 /hours/opiskelijan-nimi.md</p>
 <p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohje</a></p>
 
-
-
-<h2>Materiaalia (lisätään kurssin aikana)</h2>
-<p>Xcode versio jota käytetään (laitoksen koneet) kursilla on 7.1.1.</p>
+<h2>Materiaalia (lisätään/päivitetään kurssin aikana)</h2>
 <p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015First.pdf">Ensimmäinen iOS-applikaatio</a></p>
-<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaali-PDF</a></p>
+<p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a></p>
 
 <h2>Yhteyshenkilö (ohjaaja)</h2>
 <p>Jos kysyttävää, ota yhteyttä: daniel.lillqvist(a)helsinki.fi</p>
