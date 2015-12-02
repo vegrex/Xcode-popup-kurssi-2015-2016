@@ -1,12 +1,12 @@
 <h1>Xcode-popup-kurssi-2015-2016</h1>
 <p>Vuodenvaihteen 1.12.2015-18.1.2016 Pop-Up Course: Xcode (582756)</p>
-<p>Päivtetty 2.12</p>
 
 <img src="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/images/Xcode6.png" />
 
 <h2>Ajankohtaista</h2>
 <ul>
 <li>4.12 Projektisuunnitelman deadline (sähköpostitse). Pajatyyppistä ohjausta B119:ssä 14-16.</li>
+<li>2.12 <span style="color:red">Päivitetty</span> <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a> ja <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohjetta</a></li>
 <li>1.12 Aloitusluento</li>
 <li>30.11 Osallistujat valittu</li>
 </ul>
