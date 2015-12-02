@@ -62,7 +62,6 @@ Pajatyyppistä ohjausta:
 <h2>Projektin muoto</h2>
 <p>Jokaisella projektilla on oma GitHub repositorio, kannattaa seurata hyvän prosessin sanomaa 
 "commit early and often", eli pidetään repo ajan tasalla.</p>
-<br />
 <p>Projektitiedostojen lisäksi, repoon kirjataan käytetyt tunnit muotoon:<br />
 /hours/opiskelijan-nimi.md</p>
 <p><a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohje</a></p>
