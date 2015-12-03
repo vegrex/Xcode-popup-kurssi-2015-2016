@@ -14,9 +14,9 @@
 
 <h2>Osallistujat</h2>
 <p>
-Kurssille on tehty rajauksen. Tässä osallistujat:<br />
+Opiskelija (projektisuunnitelma hyväksytty)
 11647672<br />
-11732558<br />
+11732558 OK<br />
 11935261<br />
 12218686<br />
 13483407<br />
@@ -30,7 +30,7 @@ Kurssille on tehty rajauksen. Tässä osallistujat:<br />
 14416910<br />
 14416994<br />
 14417977<br />
-14418484<br />
+14418484 OK<br />
 </p>
 
 <h2>Kuvaus</h2>
