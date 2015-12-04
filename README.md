@@ -15,7 +15,7 @@
 <h2>Osallistujat</h2>
 <p>
 Opiskelija (projektisuunnitelma hyväksytty)<br/>
-11647672<br />
+11647672 OK<br />
 11732558 OK<br />
 11935261<br />
 12218686<br />
