@@ -23,7 +23,7 @@ Opiskelija (projektisuunnitelma hyväksytty)<br/>
 14012055 OK<br />
 14109887 OK<br />
 14248188<br />
-14257687<br />
+14257687 OK<br />
 14261741 OK<br />
 14356630 OK<br />
 14416907<br />
