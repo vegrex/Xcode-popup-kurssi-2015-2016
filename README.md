@@ -5,7 +5,8 @@
 
 <h2>Ajankohtaista</h2>
 <ul>
-<li>11.12 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a>. Pajatyyppistä ohjausta C220:ssä 14-16.</li>
+<li>11.12 Pajatyyppistä ohjausta C220:ssä 14-16.</li>
+<li>9.12 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a>.</li>
 <li>4.12 <strong><em>Projektisuunnitelman deadline (sähköpostitse viimeistään 23:59).</em></strong> Pajatyyppistä ohjausta B119:ssä 14-16.</li>
 <li>3.12 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohjetta</a> (lisätty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Matriisi.pdf">Arviointimatriisi</a>)</li>
 <li>2.12 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a> ja <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohjetta</a></li>
