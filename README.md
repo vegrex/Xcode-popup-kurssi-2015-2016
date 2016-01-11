@@ -5,6 +5,7 @@
 
 <h2>Ajankohtaista</h2>
 <ul>
+<li>11.1 Pajatyyppistä ohjausta A218:ssa 14-16.</li>
 <li>11.12 Pajatyyppistä ohjausta C220:ssä 14-16.</li>
 <li>9.12 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Materiaali.pdf">Materiaalia</a>.</li>
 <li>4.12 <strong><em>Projektisuunnitelman deadline (sähköpostitse viimeistään 23:59).</em></strong> Pajatyyppistä ohjausta B119:ssä 14-16.</li>
@@ -57,7 +58,7 @@ Pajatyyppistä ohjausta:
 <ul>
 <li>4.12 14-16 B119</li>
 <li>11.12 14-16 C220</li>
-<li>11.1 14-16 (TBA)</li>
+<li>11.1 14-16 A218</li>
 </ul>
 18.1 Ma 14-16 Demotilaisuus (voi tulla muutosta tähän vielä)
 </p>
