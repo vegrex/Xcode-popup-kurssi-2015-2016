@@ -5,7 +5,7 @@
 
 <h2>Ajankohtaista</h2>
 <ul>
-<li>18.1 Demotilaisuus C220 13-17</li>
+<li>18.1 Demotilaisuus C220 14:45-eteenpäin</li>
 <li>13.1 Päivitetty <a href="https://raw.githubusercontent.com/vegrex/Xcode-popup-kurssi-2015-2016/master/material/XPC2015Projektiohje.pdf">Projektiohjetta</a></li>
 <li>11.1 Pajatyyppistä ohjausta A218:ssa 14-16.</li>
 <li>11.12 Pajatyyppistä ohjausta C220:ssä 14-16.</li>
@@ -62,7 +62,7 @@ Pajatyyppistä ohjausta:
 <li>11.12 14-16 C220</li>
 <li>11.1 14-16 A218</li>
 </ul>
-18.1 13-17 C220 Demotilaisuus
+18.1 14:45-eteenpäin C220 Demotilaisuus
 </p>
 
 <h2>Projektin muoto</h2>
